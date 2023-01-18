@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    padding: 0px 25px;
+}
+header{
+    text-align: center;
+    font-family: 'Cinzel', serif, sans-serif;
+    font-size: large;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(0, 3, 0) 0%, rgb(2, 82, 22) 50%, rgb(0, 0, 0) 100%);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 20px 70px 70px rgb(22, 83, 7);
+
+}
+title{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+h2{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(11, 48, 11) 0%, rgb(255, 196, 0) 50%, rgb(0, 0, 0) 100%);
+    font-size: 70px;
+    text-align: center;
+    color: green;
+    font-family: 'Courier New', Courier, monospace, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    background-color: rgb(139, 124, 37);
+    
+}
+header img{
+    border-radius: 500px;
+    border-style: solid;
+    border-color: green;
+    border-width: 20px;
+    width: 500px;
+}
+h2 img{
+    width: 500px;
+}
+main{
+    padding: 0 20px;
+    font-size: 30px;
+    /*background-image: url(https://cdn.mos.cms.futurecdn.net/M2CJAovvqJ5zZZBq3xZa43.jpg);*/
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+}
+h3{
+    padding: 30px;
+}
+a:hover{
+    color: goldenrod;
+    background-color: green;
+}
+footer img{
+    width: 50%;
+    ;
+}
